@@ -13,7 +13,7 @@ L'application est développée en Java Swing.
 
 * Panel Admin
 
-![](/doc/SmartKfet_Panel_Admin.jpg)
+    ![](/doc/SmartKfet_Panel_Admin.jpg)
 
     * Gestion des membres
     
