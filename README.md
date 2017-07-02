@@ -1,4 +1,4 @@
-# SmartKfet
+# Smart K'Fet
 
 Ce projet à été réalisé à l'IUT dans le cadre de la matière "Méthodologie de la production d'applications".
 
