@@ -8,19 +8,19 @@ L'application est développée en Java Swing.
 ### Fonctionalités
 
 * Connexion
-![](./doc/SmartKfet_Login.png =250x)
+![](./doc/SmartKfet_Login.png)
 * Panel Admin
-![](./doc/SmartKfet_Panel_Admin.png =250x)
+![](./doc/SmartKfet_Panel_Admin.png)
     * Gestion des membres
-    ![](./doc/SmartKfet_Panel_Member.png =250x)
+    ![](./doc/SmartKfet_Panel_Member.png)
     * Gestion des produits
-    ![](./doc/SmartKfet_Panel_Products.png =250x)
+    ![](./doc/SmartKfet_Panel_Products.png)
     * Gestion des stocks
-    ![](./doc/SmartKfet_Panel_Stocks.png =250x)
+    ![](./doc/SmartKfet_Panel_Stocks.png)
 * Prise de commandes
-![](./doc/SmartKfet_Order_Taking.png =250x)
+![](./doc/SmartKfet_Order_Taking.png)
 * Paiement d'une commande
-![](./doc/SmartKfet_Order_Validation.png =250x)
+![](./doc/SmartKfet_Order_Validation.png)
 
 ### Notes
 
