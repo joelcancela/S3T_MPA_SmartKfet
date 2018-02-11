@@ -40,9 +40,14 @@ L'application est développée en Java Swing.
 - Le compte admin par défaut est: ``id: 00``, ``mot de passe: 0000``
 - Tout est sérialisé dans un fichier ```Save.txt``` à la racine du projet.
 
-## Compilation et Execution
+## Compilation et Exécution
 
-- Nécessite *ant* et Java (8 minimum)
+### Nécessite
+
+- Apache Ant
+- Java 8
+
+### Lancement
 
 ```bash
 ant clean # Pour nettoyer le projet
