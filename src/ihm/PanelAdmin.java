@@ -75,7 +75,7 @@ public class PanelAdmin extends javax.swing.JPanel{
             }
         });
 
-        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/catalogue/LOGOUT.png"))); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/catalogue/Logout.png"))); // NOI18N
         jButton2.setText("Deconnexion");
         jButton2.setHorizontalAlignment(javax.swing.SwingConstants.RIGHT);
         jButton2.setHorizontalTextPosition(javax.swing.SwingConstants.CENTER);
